@@ -1,0 +1,6 @@
+## Interface: 30100
+## Title: Spellnouncer
+## Author: Haste
+## Version: 1.0
+## Notes: Simple add-on to announce when certain spells are cast.
+spellnouncer.lua
